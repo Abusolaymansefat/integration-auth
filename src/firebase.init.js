@@ -9,7 +9,8 @@ const firebaseConfig = {
   apiKey: "AIzaSyCWLvbQeeN0MHgQvQSnyeD8yAu1Pb-pSNw",
   authDomain: "integration-auth-f749d.firebaseapp.com",
   projectId: "integration-auth-f749d",
-  storageBucket: "integration-auth-f749d.firebasestorage.app",
+  storageBucket: "integration-auth-f749d.appspot.com",
+//   storageBucket: "integration-auth-f749d.firebasestorage.app",
   messagingSenderId: "558468452963",
   appId: "1:558468452963:web:af0acd652e2791a26e9e56"
 };
